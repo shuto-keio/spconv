@@ -3,6 +3,7 @@
 1. Bug of running a setup.py.
 
 This problem is pointed out on issues of official repository.
+
 https://github.com/traveller59/spconv/issues/104#issuecomment-583262965
 
 2. Fixed README.md
