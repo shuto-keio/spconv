@@ -1,3 +1,16 @@
+# This repository fixed some isshues of official repository
+
+1. Bug of running a setup.py.
+
+This problem is pointed out on issues of official repository.
+https://github.com/traveller59/spconv/issues/104#issuecomment-583262965
+
+2. Fixed README.md
+
+$ ~~sudo apt install libboostall-dev~~
+
+$ sudo apt install libboost-all-dev
+
 # SpConv: PyTorch Spatially Sparse Convolution Library
 
 This is a spatially sparse convolution library like [SparseConvNet](https://github.com/facebookresearch/SparseConvNet) but faster and easy to read. This library provide sparse convolution/transposed, submanifold convolution, inverse convolution and sparse maxpool.
