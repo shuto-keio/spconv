@@ -1,4 +1,4 @@
-# This repository fixed some isshues of official repository
+# This repository fixed some issues of official repository
 
 1. Bug of running a setup.py.
 
